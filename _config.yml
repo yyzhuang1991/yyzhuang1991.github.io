@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan Zhuang haha"
+title                    : "Yuan Zhuang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuan Zhuang"
 description              : &description "personal description"
 url                      : https://yyzhuang1991.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yuan Zhuang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "School of Computing, | University of Utah"
+  location         : "Salt Lake City"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "yuan.zhuang@utah.edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
